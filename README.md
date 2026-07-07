@@ -12,3 +12,8 @@ It is an app that helps people design where their money belongs.
 - Every money has a place.
 - Design before spending.
 - Visual budgeting with blocks.
+
+
+Money Place
+
+Visual Budget Designer
